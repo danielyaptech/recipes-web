@@ -1,0 +1,50 @@
+* {   /* Resetting the box model*/
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #F6E3B4;
+}
+
+h1 {
+  font-family: "Georgia", sans-serif;
+  margin: 7px;
+  padding: 7px;
+  color: #00274d;
+}
+
+li.list {
+  padding-left: 7px;
+}
+
+img {
+  padding: auto;
+}
+
+li {
+  font-family: 'Times New Roman', serif;
+  margin: 7px;
+
+}
+
+/* footer element and hr styles*/
+hr {
+  height: 2px;
+  background-color: darksalmon;
+  border: none;
+  margin: 7px;
+}
+
+footer {
+  text-align: center;
+}
+
+span#love{
+  color: red;
+}
+
+p#copyright {
+  padding: 5px;
+}
