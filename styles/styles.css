@@ -45,6 +45,7 @@ span#love{
   color: red;
 }
 
-p#copyright {
+p#copyright,
+P#location{
   padding: 5px;
 }
