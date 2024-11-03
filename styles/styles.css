@@ -39,13 +39,10 @@ hr {
 
 footer {
   text-align: center;
+  padding: 5px;
+  font-family: system-ui, Georgia, sans-serif;
 }
 
 span#love{
   color: red;
-}
-
-p#copyright,
-P#location{
-  padding: 5px;
 }
