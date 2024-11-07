@@ -1,1 +1,17 @@
+/* footer element and hr styles*/
+hr {
+  height: 2px;
+  background-color: darksalmon;
+  border: none;
+  margin: 7px;
+}
 
+footer {
+  text-align: center;
+  padding: 5px;
+  font-family: system-ui, Georgia, sans-serif;
+}
+
+span#love{
+  color: red;
+}
